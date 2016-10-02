@@ -1,0 +1,6 @@
+[package]
+name = "rustvr-core"
+version = "0.1.0"
+authors = ["Christopher Augustus <repos@c4augustus.com>"]
+
+[dependencies]
